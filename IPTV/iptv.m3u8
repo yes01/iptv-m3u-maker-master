@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="虎牙 🇨🇳️",★★★★★虎牙 🇨🇳️★★★★★
 http://live.aptvapp.com/live/huya/688
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127&466020" group-title="英雄联盟", LPL
+http://live.aptvapp.com/live/huya/lpl
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/0e/140cfd7cbaddc5db2c25a97e0aa83e_180_135.jpg?1610275378&466020" group-title="英雄联盟", LCK
+http://live.aptvapp.com/live/huya/lck
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/31/d8e19bbe4c19edbd39b9841e29e134_180_135.jpg?1621915070" group-title="王者荣耀", 宇晨【马可导师】
 http://live.aptvapp.com/live/huya/691346
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/50/31ec45ae25460bfccc5ec977ea3f65_180_135.jpg?1624186817" group-title="王者荣耀", 心态
@@ -31,6 +35,8 @@ https://epg.112114.xyz/douyu/5515841
 https://epg.112114.xyz/douyu/5189167
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/38741874f1654072b891b0e95a911e53_middle.jpg" group-title="热门游戏",iu可可曾
 https://epg.112114.xyz/douyu/83816
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/eb347e4e49a5426496be1376cce6e203_big.jpg" group-title="英雄联盟",智勋勋勋勋
+https://epg.112114.xyz/douyu/312212
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/8cbf3e5f39584a4aac8b7dd2bc3ee53e_middle.jpg" group-title="户外",尧顺宇
 https://epg.112114.xyz/douyu/109064
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/2da97baf306e4100ac7fce2790cc7681_middle.jpg" group-title="美食",大sao下饭频道
@@ -41,11 +47,11 @@ https://epg.112114.xyz/douyu/1984839
 https://epg.112114.xyz/douyu/290935
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202212/4e340983996f43b991ffa50af7b956f6_big.jpg" group-title="热门游戏",正直博
 https://epg.112114.xyz/douyu/1617
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+#EXTINF:-1 group-title="4K频道",CCTV-4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
+#EXTINF:-1 group-title="4K频道",CCTV16-4K
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="央视IPV6" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
