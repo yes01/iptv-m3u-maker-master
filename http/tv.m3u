@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, group-title="地方频道", 香港奇妙台
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, group-title="地方频道", 西安-2
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安健康
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安新闻
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 龙岩综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 万州综合频道
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1, group-title="其他频道", CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
